@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemBuscar"
+        android:icon="@drawable/icono_buscar"
+        android:title="Buscar" />
+    <item
+        android:id="@+id/itemMensaje"
+        android:icon="@drawable/icono_mensaje"
+        android:title="Mensajes" />
+    <item
+        android:id="@+id/itemNotificacion"
+        android:icon="@drawable/icono_notificacion"
+        android:title="Notificaciones" />
+</menu>

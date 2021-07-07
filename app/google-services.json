@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "591323665938",
+    "firebase_url": "https://mesa2-tecnologias-emergentes-default-rtdb.firebaseio.com",
+    "project_id": "mesa2-tecnologias-emergentes",
+    "storage_bucket": "mesa2-tecnologias-emergentes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591323665938:android:4f12c224a092c4d4346acb",
+        "android_client_info": {
+          "package_name": "com.rocio.poma.mesa2_tecnologias_emergentes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591323665938-ugn1qg6qfgp2h6bk7fbseklep2t3d9c3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtd1zsDXZaZbwloPz3QpkfmFN0vv_95v4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591323665938-ugn1qg6qfgp2h6bk7fbseklep2t3d9c3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

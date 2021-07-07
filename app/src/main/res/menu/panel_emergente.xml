@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/first"
+        android:title="Categoria: salud" />
+    <item
+        android:id="@+id/second"
+        android:title="Categoria: alimentos" />
+    <item
+        android:id="@+id/terd"
+        android:title="Categoria: capacitaciones " />
+
+
+    <!--
+        <ListView
+            android:id="@+id/listView"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+     />
+     -->
+</menu>
